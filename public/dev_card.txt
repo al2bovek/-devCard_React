@@ -1,0 +1,6 @@
+React užduotis:
+Sugeneruokite programuotojo kortele pagal duota pavyzdi.
+Komponentai: App, Card, Avatar, Intro, SkillList, Skill.
+Jei programuotojas "available" kortele spalvota. Jei ne - juodai balta. Panaudokite Ternary operator.
+Parašykite ir pritaikykite CSS.
+Ikonelems ant skills atvaizduoti panaudokite &&.
